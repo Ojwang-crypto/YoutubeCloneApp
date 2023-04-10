@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace Maui.Apps.Framework.UI
+namespace Maui.Apps.Framework.UI;
+
+public enum ContentDisplayMode
 {
-    internal class ContentDisplayMode
-    {
-    }
+    NoNavigationBar,
+    NavigationBar
 }

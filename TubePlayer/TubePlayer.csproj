@@ -52,9 +52,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Helpers\" />
 	  <Folder Include="IServices\" />
-	  <Folder Include="Models\" />
 	  <Folder Include="IViews\" />
 	  <Folder Include="Resources\Styles\" />
 	  <Folder Include="ViewControls\" />

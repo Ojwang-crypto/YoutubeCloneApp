@@ -3,7 +3,7 @@
 public static class Constants
 {
     public static string ApplicationName = "Tube Player";
-    public static string EmailAddress = @"omondicollins163@gmail.com.com";
+    public static string EmailAddress = @"omondicollins163@gmail.com";
     public static string ApplicationId = "XGENO.TubePlayer.App";
     public static string ApiServiceURL = @"https://youtube.googleapis.com/youtube/v3/";
     public static string ApiKey = @"AIzaSyCnayaCeUT2-ZOSuwsbabrhuzGppFKQF3Q";
